@@ -1,4 +1,5 @@
-import { Category } from "./componentes/Category"
+import { Category } from "../Category"
+
 
 const categories = [
   {
