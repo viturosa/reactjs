@@ -3,7 +3,7 @@ export function Header() {
 	return (
 	<>
 	<nav className="nav-header">
-	<h1>eCommerce de eCommerce</h1>
+	<h1>eCommerce de Suplementos</h1>
 <img />
 <ul>
 	<li>Produtos</li>
